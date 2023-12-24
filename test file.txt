@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-Added
-=======
+
 None
 
-Gaussian
->>>>>>> parent of 9471d6a (Update test file.txt)
 
 Hello
