@@ -4,6 +4,12 @@ Randy likes Watermelon
 
 I like watermelon
 
+<<<<<<< HEAD
 I hate Randy
 
 Randy likes Watermelon
+
+I Like Chicken
+=======
+I hate Randy
+>>>>>>> parent of 1db8cbe (Update test file.txt)
