@@ -3,7 +3,10 @@ None
 
 
 Hello
+<<<<<<< HEAD
 
 Ice
 
 Pine
+=======
+>>>>>>> parent of f9ba9e9 (Update test file.txt)
